@@ -1,0 +1,22 @@
+[
+  {
+    "id": "cpp-raii-ownership",
+    "title": "RAII와 자원 소유권",
+    "track": "cpp",
+    "taught": "2026-11-16",
+    "status": "unrated",
+    "next_review": "2026-11-30",
+    "reviews": [],
+    "notes": ""
+  },
+  {
+    "id": "design-session-lifecycle",
+    "title": "세션 관리와 세션 생명주기",
+    "track": "design",
+    "taught": "2026-11-16",
+    "status": "unrated",
+    "next_review": "2026-11-30",
+    "reviews": [],
+    "notes": ""
+  }
+]
