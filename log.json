@@ -4,10 +4,10 @@
     "title": "RAII와 자원 소유권",
     "track": "cpp",
     "taught": "2026-11-16",
-    "status": "unrated",
+    "status": "weak",
     "next_review": "2026-11-30",
     "reviews": [],
-    "notes": "",
+    "notes": "2026-11-16 질문: std::scoped_lock 을 자주 쓰나? 락은 스코프 벗어나면 알아서 소멸하지 않나? (mutex 자체는 unlock 안 함, 가드 객체가 필요 / scoped_lock 은 여러 뮤텍스 데드락 없이 잠금)",
     "doc": "https://claude.ai/artifact/5EuCu3qWARumWu2xVggtnH"
   },
   {
