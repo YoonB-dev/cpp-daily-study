@@ -21,5 +21,27 @@
     "notes": "2026-11-16 사용자: 중요하고 어렵다고 느낌. 복습 때 더 디테일하게 다시 설명해 달라는 요청 (예: IOCP/epoll 에서 I/O 참조 카운트 흐름, Disconnect 경합, 세션-플레이어 분리와 재접속·중복 로그인, 하트비트 타임아웃, Send 큐와 정리 순서).",
     "doc": "https://claude.ai/artifact/5EuCu3qWARumWu2xVggtnH",
     "deep_review": true
+  },
+  {
+    "id": "cpp-shared-weak-cycle",
+    "title": "shared_ptr·weak_ptr와 순환 참조",
+    "track": "cpp",
+    "taught": "2026-11-17",
+    "status": "unrated",
+    "next_review": "2026-12-01",
+    "reviews": [],
+    "notes": "",
+    "doc": "https://claude.ai/artifact/6sFHVZxEBPv4Mfxduxkhcn"
+  },
+  {
+    "id": "design-packet-framing",
+    "title": "패킷 구조와 TCP 메시지 경계(프레이밍)",
+    "track": "design",
+    "taught": "2026-11-17",
+    "status": "unrated",
+    "next_review": "2026-12-01",
+    "reviews": [],
+    "notes": "",
+    "doc": "https://claude.ai/artifact/6sFHVZxEBPv4Mfxduxkhcn"
   }
 ]
