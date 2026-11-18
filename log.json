@@ -38,10 +38,10 @@
     "title": "패킷 구조와 TCP 메시지 경계(프레이밍)",
     "track": "design",
     "taught": "2026-11-17",
-    "status": "unrated",
+    "status": "weak",
     "next_review": "2026-12-01",
     "reviews": [],
-    "notes": "",
+    "notes": "2026-11-18 질문: '프레이밍된 패킷'이 정확히 무슨 뜻인가? (TCP 바이트 스트림에서 size 헤더로 패킷 하나만큼 잘라낸 [size][id][body] 덩어리)",
     "doc": "https://claude.ai/artifact/6sFHVZxEBPv4Mfxduxkhcn"
   },
   {
