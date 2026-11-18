@@ -43,5 +43,27 @@
     "reviews": [],
     "notes": "",
     "doc": "https://claude.ai/artifact/6sFHVZxEBPv4Mfxduxkhcn"
+  },
+  {
+    "id": "cpp-move-semantics",
+    "title": "이동 시맨틱스와 rvalue 참조",
+    "track": "cpp",
+    "taught": "2026-11-18",
+    "status": "unrated",
+    "next_review": "2026-12-02",
+    "reviews": [],
+    "notes": "",
+    "doc": "https://claude.ai/artifact/JNbrS9MuToUaASJBUAtoup"
+  },
+  {
+    "id": "design-packet-serialization-dispatch",
+    "title": "패킷 직렬화와 핸들러 디스패치",
+    "track": "design",
+    "taught": "2026-11-18",
+    "status": "unrated",
+    "next_review": "2026-12-02",
+    "reviews": [],
+    "notes": "",
+    "doc": "https://claude.ai/artifact/JNbrS9MuToUaASJBUAtoup"
   }
 ]
