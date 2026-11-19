@@ -65,5 +65,27 @@
     "reviews": [],
     "notes": "",
     "doc": "https://claude.ai/artifact/JNbrS9MuToUaASJBUAtoup"
+  },
+  {
+    "id": "cpp-condvar-blocking-queue",
+    "title": "condition_variable과 스레드 안전 큐",
+    "track": "cpp",
+    "taught": "2026-11-19",
+    "status": "unrated",
+    "next_review": "2026-12-03",
+    "reviews": [],
+    "notes": "",
+    "doc": "https://claude.ai/artifact/6NrJDQzZ3Em5yxGsEGktiy"
+  },
+  {
+    "id": "design-job-queue-actor",
+    "title": "Job Queue와 액터 모델",
+    "track": "design",
+    "taught": "2026-11-19",
+    "status": "unrated",
+    "next_review": "2026-12-03",
+    "reviews": [],
+    "notes": "",
+    "doc": "https://claude.ai/artifact/6NrJDQzZ3Em5yxGsEGktiy"
   }
 ]
