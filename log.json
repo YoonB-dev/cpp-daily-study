@@ -87,5 +87,27 @@
     "reviews": [],
     "notes": "",
     "doc": "https://claude.ai/artifact/6NrJDQzZ3Em5yxGsEGktiy"
+  },
+  {
+    "id": "cpp-atomic-memory-order",
+    "title": "std::atomic과 memory_order",
+    "track": "cpp",
+    "taught": "2026-11-20",
+    "status": "unrated",
+    "next_review": "2026-12-04",
+    "reviews": [],
+    "notes": "",
+    "doc": "https://claude.ai/artifact/H8G5mJK9w8rHUfB72xepYi"
+  },
+  {
+    "id": "design-server-tick-loop",
+    "title": "서버 틱과 게임 루프",
+    "track": "design",
+    "taught": "2026-11-20",
+    "status": "unrated",
+    "next_review": "2026-12-04",
+    "reviews": [],
+    "notes": "",
+    "doc": "https://claude.ai/artifact/H8G5mJK9w8rHUfB72xepYi"
   }
 ]
