@@ -109,5 +109,27 @@
     "reviews": [],
     "notes": "",
     "doc": "https://claude.ai/artifact/H8G5mJK9w8rHUfB72xepYi"
+  },
+  {
+    "id": "cpp-false-sharing-cache-line",
+    "title": "False Sharing과 캐시 라인",
+    "track": "cpp",
+    "taught": "2026-11-21",
+    "status": "unrated",
+    "next_review": "2026-12-05",
+    "reviews": [],
+    "notes": "",
+    "doc": "https://claude.ai/artifact/Vy4S1FfbXQsxEDGmB7KmjE"
+  },
+  {
+    "id": "design-aoi-grid",
+    "title": "관심 영역(AOI)과 그리드 시야 처리",
+    "track": "design",
+    "taught": "2026-11-21",
+    "status": "unrated",
+    "next_review": "2026-12-05",
+    "reviews": [],
+    "notes": "",
+    "doc": "https://claude.ai/artifact/Vy4S1FfbXQsxEDGmB7KmjE"
   }
 ]

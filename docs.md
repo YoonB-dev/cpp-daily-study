@@ -7,3 +7,4 @@
 | 2026-11-18 | 이동 시맨틱스와 rvalue 참조 · 패킷 직렬화와 핸들러 디스패치 | [Claude Docs](https://claude.ai/artifact/JNbrS9MuToUaASJBUAtoup) |
 | 2026-11-19 | condition_variable과 스레드 안전 큐 · Job Queue와 액터 모델 | [Claude Docs](https://claude.ai/artifact/6NrJDQzZ3Em5yxGsEGktiy) |
 | 2026-11-20 | std::atomic과 memory_order · 서버 틱과 게임 루프 | [Claude Docs](https://claude.ai/artifact/H8G5mJK9w8rHUfB72xepYi) |
+| 2026-11-21 | False Sharing과 캐시 라인 · 관심 영역(AOI)과 그리드 시야 처리 | [Claude Docs](https://claude.ai/artifact/Vy4S1FfbXQsxEDGmB7KmjE) |
