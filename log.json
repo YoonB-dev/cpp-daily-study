@@ -153,5 +153,27 @@
     "reviews": [],
     "notes": "",
     "doc": "https://claude.ai/artifact/57h8tDYa6riwHAUTmw3YgE"
+  },
+  {
+    "id": "cpp-cas-aba",
+    "title": "CAS(compare_exchange)와 ABA 문제",
+    "track": "cpp",
+    "taught": "2026-11-23",
+    "status": "unrated",
+    "next_review": "2026-12-07",
+    "reviews": [],
+    "notes": "",
+    "doc": "https://claude.ai/artifact/WQb6Kv3Wd5xhTd6qcKSHbf"
+  },
+  {
+    "id": "design-async-db",
+    "title": "비동기 DB 처리와 결과 콜백",
+    "track": "design",
+    "taught": "2026-11-23",
+    "status": "unrated",
+    "next_review": "2026-12-07",
+    "reviews": [],
+    "notes": "",
+    "doc": "https://claude.ai/artifact/WQb6Kv3Wd5xhTd6qcKSHbf"
   }
 ]
