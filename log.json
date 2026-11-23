@@ -162,7 +162,7 @@
     "status": "weak",
     "next_review": "2026-12-07",
     "reviews": [],
-    "notes": "2026-11-23 질문: compare_exchange_weak(cur, now) 가 'g_maxCcu 가 cur 이면 now 로 바꾼다'는 뜻인지? (맞음 + 실패 시 cur 에 현재값이 들어와 재시도) / 2026-11-23 질문: 코드의 explicit 생성자는 무엇을 하나? (인자 하나짜리 생성자의 암시적 변환 금지: FreeList p = 1024; 같은 코드 컴파일 에러)",
+    "notes": "2026-11-23 질문: compare_exchange_weak(cur, now) 가 'g_maxCcu 가 cur 이면 now 로 바꾼다'는 뜻인지? (맞음 + 실패 시 cur 에 현재값이 들어와 재시도) / 2026-11-23 질문: 코드의 explicit 생성자는 무엇을 하나? (인자 하나짜리 생성자의 암시적 변환 금지: FreeList p = 1024; 같은 코드 컴파일 에러) / 2026-11-23 질문: Pack 이 태그를 붙이는 비트 연산인지? (tag 를 64비트로 늘려 <<32 로 위 32비트, idx 는 아래 32비트에 OR — 미는 쪽은 tag)",
     "doc": "https://claude.ai/artifact/WQb6Kv3Wd5xhTd6qcKSHbf"
   },
   {
