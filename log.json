@@ -159,10 +159,10 @@
     "title": "CAS(compare_exchange)와 ABA 문제",
     "track": "cpp",
     "taught": "2026-11-23",
-    "status": "unrated",
+    "status": "weak",
     "next_review": "2026-12-07",
     "reviews": [],
-    "notes": "",
+    "notes": "2026-11-23 질문: compare_exchange_weak(cur, now) 가 'g_maxCcu 가 cur 이면 now 로 바꾼다'는 뜻인지? (맞음 + 실패 시 cur 에 현재값이 들어와 재시도)",
     "doc": "https://claude.ai/artifact/WQb6Kv3Wd5xhTd6qcKSHbf"
   },
   {
