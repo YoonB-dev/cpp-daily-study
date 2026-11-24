@@ -10,3 +10,4 @@
 | 2026-11-21 | False Sharing과 캐시 라인 · 관심 영역(AOI)과 그리드 시야 처리 | [Claude Docs](https://claude.ai/artifact/Vy4S1FfbXQsxEDGmB7KmjE) |
 | 2026-11-22 | Lock-free SPSC 링 버퍼 · 존·채널 구조와 존 이동 | [Claude Docs](https://claude.ai/artifact/57h8tDYa6riwHAUTmw3YgE) |
 | 2026-11-23 | CAS(compare_exchange)와 ABA 문제 · 비동기 DB 처리와 결과 콜백 | [Claude Docs](https://claude.ai/artifact/WQb6Kv3Wd5xhTd6qcKSHbf) |
+| 2026-11-24 | epoll과 논블로킹 소켓 · 서버 권위와 치트 방지 | [Claude Docs](https://claude.ai/artifact/N1BdsQpUQXxXb3VVztj1W8) |
