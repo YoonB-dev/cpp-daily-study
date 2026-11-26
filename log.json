@@ -197,5 +197,27 @@
     "reviews": [],
     "notes": "",
     "doc": "https://claude.ai/artifact/N1BdsQpUQXxXb3VVztj1W8"
+  },
+  {
+    "id": "cpp-object-memory-pool",
+    "title": "오브젝트 풀과 고정 크기 메모리 풀",
+    "track": "cpp",
+    "taught": "2026-11-26",
+    "status": "unrated",
+    "next_review": "2026-12-10",
+    "reviews": [],
+    "notes": "",
+    "doc": "https://claude.ai/artifact/KrfGpzRNNsam925jsfjhgc"
+  },
+  {
+    "id": "design-inter-server-rpc",
+    "title": "서버 간 통신과 분산 서버 구조",
+    "track": "design",
+    "taught": "2026-11-26",
+    "status": "unrated",
+    "next_review": "2026-12-10",
+    "reviews": [],
+    "notes": "",
+    "doc": "https://claude.ai/artifact/KrfGpzRNNsam925jsfjhgc"
   }
 ]
