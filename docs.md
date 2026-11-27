@@ -12,3 +12,4 @@
 | 2026-11-23 | CAS(compare_exchange)와 ABA 문제 · 비동기 DB 처리와 결과 콜백 | [Claude Docs](https://claude.ai/artifact/WQb6Kv3Wd5xhTd6qcKSHbf) |
 | 2026-11-24 | epoll과 논블로킹 소켓 · 서버 권위와 치트 방지 | [Claude Docs](https://claude.ai/artifact/N1BdsQpUQXxXb3VVztj1W8) |
 | 2026-11-26 | 오브젝트 풀과 고정 크기 메모리 풀 · 서버 간 통신과 분산 서버 구조 | [Claude Docs](https://claude.ai/artifact/KrfGpzRNNsam925jsfjhgc) |
+| 2026-11-27 | thread_local과 스레드별 캐시 · 로그인 인증 흐름과 세션 토큰 핸드오프 | [Claude Docs](https://claude.ai/artifact/DeQvxgJ7cAjLCRwB11PJ4y) |
