@@ -13,3 +13,4 @@
 | 2026-11-24 | epoll과 논블로킹 소켓 · 서버 권위와 치트 방지 | [Claude Docs](https://claude.ai/artifact/N1BdsQpUQXxXb3VVztj1W8) |
 | 2026-11-26 | 오브젝트 풀과 고정 크기 메모리 풀 · 서버 간 통신과 분산 서버 구조 | [Claude Docs](https://claude.ai/artifact/KrfGpzRNNsam925jsfjhgc) |
 | 2026-11-27 | thread_local과 스레드별 캐시 · 로그인 인증 흐름과 세션 토큰 핸드오프 | [Claude Docs](https://claude.ai/artifact/DeQvxgJ7cAjLCRwB11PJ4y) |
+| 2026-11-28 | 스핀락과 읽기/쓰기 락(shared_mutex) · 예약 작업 처리: JobTimer와 타이머 휠 | [Claude Docs](https://claude.ai/artifact/YaeC6ZmoLMZ8wuJES9DKig) |

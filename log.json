@@ -241,5 +241,27 @@
     "reviews": [],
     "notes": "",
     "doc": "https://claude.ai/artifact/DeQvxgJ7cAjLCRwB11PJ4y"
+  },
+  {
+    "id": "cpp-spinlock-shared-mutex",
+    "title": "스핀락과 읽기/쓰기 락(shared_mutex)",
+    "track": "cpp",
+    "taught": "2026-11-28",
+    "status": "unrated",
+    "next_review": "2026-12-12",
+    "reviews": [],
+    "notes": "",
+    "doc": "https://claude.ai/artifact/YaeC6ZmoLMZ8wuJES9DKig"
+  },
+  {
+    "id": "design-job-timer-wheel",
+    "title": "예약 작업 처리: JobTimer와 타이머 휠",
+    "track": "design",
+    "taught": "2026-11-28",
+    "status": "unrated",
+    "next_review": "2026-12-12",
+    "reviews": [],
+    "notes": "",
+    "doc": "https://claude.ai/artifact/YaeC6ZmoLMZ8wuJES9DKig"
   }
 ]
